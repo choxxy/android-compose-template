@@ -28,7 +28,7 @@ androidGradlePlugin = "7.4.2"
 ksp = "1.8.0-1.0.9"
 retrofit = "2.9.0"
 retrofitKotlinxSerializationJson = "0.8.0"
-okhttp = "4.10.0"
+okhttp = "4.11.0"
 
 [libraries]
 kotlin-stdlib = { group = "org.jetbrains.kotlin", name = "kotlin-stdlib-jdk8", version.ref = "kotlin" }
