@@ -1,7 +1,7 @@
 [versions]
 kotlin = "1.9.24"
 kotlinxCoroutines = "1.7.3"
-accompanist = "0.32.0"
+accompanist = "0.34.0"
 androidxActivity = "1.9.0"
 androidxCompose = "1.6.7"
 androidxComposeCompiler = "1.4.1"
