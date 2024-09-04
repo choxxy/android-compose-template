@@ -2,7 +2,7 @@
 kotlin = "2.0.10"
 kotlinxCoroutines = "1.8.1"
 accompanist = "0.34.0"
-androidxActivity = "1.9.1"
+androidxActivity = "1.9.2"
 androidxCompose = "1.6.8"
 androidxComposeCompiler = "1.4.1"
 androidxComposeMaterial3 = "1.2.1"
